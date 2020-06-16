@@ -1,0 +1,20 @@
+C:\Users\cmargni\source\repos\tateti\tateti\bin\Debug\tateti.exe.config
+C:\Users\cmargni\source\repos\tateti\tateti\bin\Debug\tateti.exe
+C:\Users\cmargni\source\repos\tateti\tateti\bin\Debug\tateti.pdb
+C:\Users\cmargni\source\repos\tateti\tateti\obj\Debug\tateti.csprojAssemblyReference.cache
+C:\Users\cmargni\source\repos\tateti\tateti\obj\Debug\tateti.Form1.resources
+C:\Users\cmargni\source\repos\tateti\tateti\obj\Debug\tateti.Properties.Resources.resources
+C:\Users\cmargni\source\repos\tateti\tateti\obj\Debug\tateti.csproj.GenerateResource.cache
+C:\Users\cmargni\source\repos\tateti\tateti\obj\Debug\tateti.csproj.CoreCompileInputs.cache
+C:\Users\cmargni\source\repos\tateti\tateti\obj\Debug\tateti.exe
+C:\Users\cmargni\source\repos\tateti\tateti\obj\Debug\tateti.pdb
+C:\Users\notebook bangho I7\Downloads\tateti\tateti\bin\Debug\tateti.exe.config
+C:\Users\notebook bangho I7\Downloads\tateti\tateti\bin\Debug\tateti.exe
+C:\Users\notebook bangho I7\Downloads\tateti\tateti\bin\Debug\tateti.pdb
+C:\Users\notebook bangho I7\Downloads\tateti\tateti\obj\Debug\tateti.csprojAssemblyReference.cache
+C:\Users\notebook bangho I7\Downloads\tateti\tateti\obj\Debug\tateti.Form1.resources
+C:\Users\notebook bangho I7\Downloads\tateti\tateti\obj\Debug\tateti.Properties.Resources.resources
+C:\Users\notebook bangho I7\Downloads\tateti\tateti\obj\Debug\tateti.csproj.GenerateResource.cache
+C:\Users\notebook bangho I7\Downloads\tateti\tateti\obj\Debug\tateti.csproj.CoreCompileInputs.cache
+C:\Users\notebook bangho I7\Downloads\tateti\tateti\obj\Debug\tateti.exe
+C:\Users\notebook bangho I7\Downloads\tateti\tateti\obj\Debug\tateti.pdb
